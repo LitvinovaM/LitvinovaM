@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Marina Litvinova.
+- 🔭 I am a Manual QA Engineer at Waverley Software with more than 5 years experience.
+- 🌱 I would like to learn Automated Testing because I want to get deeper and wider opportinities of improving the Quality of Software
+- 📫 This is my [LinkenIN](https://www.linkedin.com/in/marina-romanko-8a4651104/)
+
 <!--
 **LitvinovaM/LitvinovaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
